@@ -1,5 +1,8 @@
 # Discord Quest Completer (with optional auto-claim)
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Discord](https://img.shields.io/discord/INVITE_CODE?label=support&logo=discord&logoColor=white&color=5865F2)]([https://discord.gg/XarwTmZ3dW)
+
 **What is this?**  
 This is a tiny JavaScript code you paste into Discord's hidden developer console.  
 It helps you finish Discord's "Quests" (those limited-time tasks like "watch 30 minutes of video" or "play X game for 2 hours") way faster - or at least without actually doing the boring parts.
@@ -112,10 +115,6 @@ A: Yes – search GitHub for "Discord Quest Completer Vencord" or "QuestAuto". B
 
 **Q: Will Discord detect this in 2026?**  
 A: Possible anytime. No mass bans yet for this method, but keep it low-key.
-
-## Legal & License
-
-**License:** GNU GPL-3.0 → full text in [LICENSE](./LICENSE)
 
 **Disclaimer:**  
 This is shared for **educational purposes only**.  
