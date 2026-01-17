@@ -3,6 +3,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Discord](https://img.shields.io/discord/INVITE_CODE?label=support&logo=discord&logoColor=white&color=5865F2)]([https://discord.gg/XarwTmZ3dW)
 
+If this helped you farm some orbs - drop a ⭐ so others find it easier.
+
 **What is this?**  
 This is a tiny JavaScript code you paste into Discord's hidden developer console.  
 It helps you finish Discord's "Quests" (those limited-time tasks like "watch 30 minutes of video" or "play X game for 2 hours") way faster - or at least without actually doing the boring parts.
