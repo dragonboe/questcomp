@@ -1,7 +1,7 @@
 # Discord Quest Completer (with optional auto-claim)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Discord](https://img.shields.io/discord/INVITE_CODE?label=support&logo=discord&logoColor=white&color=5865F2)]([https://discord.gg/XarwTmZ3dW)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.gg/XarwTmZ3dW)
 
 If this helped you farm some orbs - drop a ⭐ so others find it easier.
 
